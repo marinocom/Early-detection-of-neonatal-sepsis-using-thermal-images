@@ -1,1 +1,1 @@
-# Early-detection-of-neonatal-sepsis-using-thermal-images
+# **Early detection of neonatal sepsis using thermal images**
