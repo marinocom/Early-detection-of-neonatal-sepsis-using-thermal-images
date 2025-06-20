@@ -1,0 +1,4322 @@
+[
+    {
+        "thermal_image": "32\\08.09.24-09.09.24\\HM20240909014117.jpeg",
+        "rgb_image": "32\\08.09.24-09.09.24\\HM20240909014117.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 262,
+                "y": 257,
+                "class": "Zona1",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 407,
+                "y": 388,
+                "class": "Zona2",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 373,
+                "y": 108,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 581,
+                "y": 449,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 324,
+                "y": 474,
+                "class": "Zona3",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": 516,
+                "y": 139,
+                "class": "Zona3",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "32\\08.09.24-09.09.24\\HM20240909014117.jpeg",
+        "rgb_image": "32\\08.09.24-09.09.24\\HM20240909014117.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 264,
+                "y": 265,
+                "class": "Zona1",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 392,
+                "y": 386,
+                "class": "Zona2",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": 386,
+                "y": 118,
+                "class": "Zona2",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 325,
+                "y": 461,
+                "class": "Zona3",
+                "temperature": 38.07254901960785
+            },
+            {
+                "x": 504,
+                "y": 136,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "32\\08.09.24-09.09.24\\HM20240909014117.jpeg",
+        "rgb_image": "32\\08.09.24-09.09.24\\HM20240909014117.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 277,
+                "y": 248,
+                "class": "Zona1",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 410,
+                "y": 384,
+                "class": "Zona2",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 380,
+                "y": 112,
+                "class": "Zona2",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 571,
+                "y": 447,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 325,
+                "y": 466,
+                "class": "Zona3",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "53\\11.12.24\\HM20241211122303.jpeg",
+        "rgb_image": "53\\11.12.24\\HM20241211122303.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 85,
+                "y": 380,
+                "class": "Zona1",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 237,
+                "y": 244,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 601,
+                "y": 261,
+                "class": "Zona2",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 122,
+                "y": 221,
+                "class": "Zona3",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "53\\11.12.24\\HM20241211122303.jpeg",
+        "rgb_image": "53\\11.12.24\\HM20241211122303.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 102,
+                "y": 400,
+                "class": "Zona1",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 224,
+                "y": 257,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 637,
+                "y": 290,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 131,
+                "y": 232,
+                "class": "Zona3",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "53\\11.12.24\\HM20241211122303.jpeg",
+        "rgb_image": "53\\11.12.24\\HM20241211122303.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 95,
+                "y": 386,
+                "class": "Zona1",
+                "temperature": 40.29019607843138
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 248,
+                "y": 260,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 616,
+                "y": 279,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 135,
+                "y": 226,
+                "class": "Zona3",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\17.12.24 (2)\\HM20241217184731.jpeg",
+        "rgb_image": "54\\17.12.24 (2)\\HM20241217184731.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 216,
+                "y": 268,
+                "class": "Zona1",
+                "temperature": 40.585882352941184
+            },
+            {
+                "x": 324,
+                "y": 97,
+                "class": "Zona2",
+                "temperature": 40.73372549019608
+            },
+            {
+                "x": 318,
+                "y": 476,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": 459,
+                "y": 18,
+                "class": "Zona2",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 370,
+                "y": 4,
+                "class": "Zona3",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\17.12.24 (2)\\HM20241217184731.jpeg",
+        "rgb_image": "54\\17.12.24 (2)\\HM20241217184731.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 236,
+                "y": 270,
+                "class": "Zona1",
+                "temperature": 40.585882352941184
+            },
+            {
+                "x": 317,
+                "y": 118,
+                "class": "Zona2",
+                "temperature": 40.585882352941184
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 481,
+                "y": 40,
+                "class": "Zona2",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 364,
+                "y": 13,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 636,
+                "y": 149,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\17.12.24 (2)\\HM20241217184731.jpeg",
+        "rgb_image": "54\\17.12.24 (2)\\HM20241217184731.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 226,
+                "y": 271,
+                "class": "Zona1",
+                "temperature": 40.585882352941184
+            },
+            {
+                "x": 322,
+                "y": 105,
+                "class": "Zona2",
+                "temperature": 40.585882352941184
+            },
+            {
+                "x": 330,
+                "y": 471,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 468,
+                "y": 21,
+                "class": "Zona2",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 378,
+                "y": 8,
+                "class": "Zona3",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 631,
+                "y": 163,
+                "class": "Zona3",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "34\\13.09.24\\HM20240913094127.jpeg",
+        "rgb_image": "34\\13.09.24\\HM20240913094127.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 162,
+                "y": 322,
+                "class": "Zona1",
+                "temperature": 41.029411764705884
+            },
+            {
+                "x": 297,
+                "y": 136,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 304,
+                "y": 468,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 507,
+                "y": 32,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 126,
+                "y": 160,
+                "class": "Zona3",
+                "temperature": 37.03764705882353
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "34\\13.09.24\\HM20240913094127.jpeg",
+        "rgb_image": "34\\13.09.24\\HM20240913094127.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 172,
+                "y": 312,
+                "class": "Zona1",
+                "temperature": 41.029411764705884
+            },
+            {
+                "x": 283,
+                "y": 138,
+                "class": "Zona2",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": 289,
+                "y": 456,
+                "class": "Zona2",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 528,
+                "y": 55,
+                "class": "Zona2",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": 608,
+                "y": 479,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 128,
+                "y": 163,
+                "class": "Zona3",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": 412,
+                "y": 469,
+                "class": "Zona3",
+                "temperature": 37.03764705882353
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "34\\13.09.24\\HM20240913094127.jpeg",
+        "rgb_image": "34\\13.09.24\\HM20240913094127.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 179,
+                "y": 302,
+                "class": "Zona1",
+                "temperature": 41.029411764705884
+            },
+            {
+                "x": 314,
+                "y": 142,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 266,
+                "y": 438,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 516,
+                "y": 24,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 142,
+                "y": 167,
+                "class": "Zona3",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": 406,
+                "y": 464,
+                "class": "Zona3",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "39\\10.10.24\\HM20241010154059.jpeg",
+        "rgb_image": "39\\10.10.24\\HM20241010154059.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 287,
+                "y": 121,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 396,
+                "y": 312,
+                "class": "Zona2",
+                "temperature": 36.88980392156863
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 435,
+                "y": 464,
+                "class": "Zona3",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "39\\10.10.24\\HM20241010154059.jpeg",
+        "rgb_image": "39\\10.10.24\\HM20241010154059.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 301,
+                "y": 128,
+                "class": "Zona1",
+                "temperature": 40.29019607843138
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 379,
+                "y": 298,
+                "class": "Zona2",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 420,
+                "y": 438,
+                "class": "Zona3",
+                "temperature": 36.741960784313726
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "39\\10.10.24\\HM20241010154059.jpeg",
+        "rgb_image": "39\\10.10.24\\HM20241010154059.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 310,
+                "y": 120,
+                "class": "Zona1",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 401,
+                "y": 306,
+                "class": "Zona2",
+                "temperature": 36.88980392156863
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\06.12.24\\HM20241206040812.jpeg",
+        "rgb_image": "50\\06.12.24\\HM20241206040812.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 136,
+                "y": 53,
+                "class": "Zona1",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 115,
+                "y": 211,
+                "class": "Zona2",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": 493,
+                "y": 128,
+                "class": "Zona2",
+                "temperature": 35.41137254901961
+            },
+            {
+                "x": 268,
+                "y": 288,
+                "class": "Zona2",
+                "temperature": 36.00274509803921
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 629,
+                "y": 229,
+                "class": "Zona3",
+                "temperature": 34.9678431372549
+            },
+            {
+                "x": 494,
+                "y": 243,
+                "class": "Zona3",
+                "temperature": 33.78509803921568
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\06.12.24\\HM20241206040812.jpeg",
+        "rgb_image": "50\\06.12.24\\HM20241206040812.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 128,
+                "y": 64,
+                "class": "Zona1",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 117,
+                "y": 206,
+                "class": "Zona2",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": 465,
+                "y": 120,
+                "class": "Zona2",
+                "temperature": 35.26352941176471
+            },
+            {
+                "x": 267,
+                "y": 274,
+                "class": "Zona2",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 68,
+                "y": 136,
+                "class": "Zona3",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": 633,
+                "y": 230,
+                "class": "Zona3",
+                "temperature": 34.6721568627451
+            },
+            {
+                "x": 480,
+                "y": 242,
+                "class": "Zona3",
+                "temperature": 33.34156862745098
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\06.12.24\\HM20241206040812.jpeg",
+        "rgb_image": "50\\06.12.24\\HM20241206040812.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 131,
+                "y": 60,
+                "class": "Zona1",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 113,
+                "y": 212,
+                "class": "Zona2",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": 454,
+                "y": 110,
+                "class": "Zona2",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": 277,
+                "y": 277,
+                "class": "Zona2",
+                "temperature": 36.15058823529412
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 64,
+                "y": 135,
+                "class": "Zona3",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": 624,
+                "y": 242,
+                "class": "Zona3",
+                "temperature": 35.41137254901961
+            },
+            {
+                "x": 456,
+                "y": 234,
+                "class": "Zona3",
+                "temperature": 32.75019607843137
+            }
+        ]
+    },
+    {
+        "thermal_image": "44\\09.11.24\\HM20240614155054.jpeg",
+        "rgb_image": "44\\09.11.24\\HM20240614155054.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 166,
+                "y": 254,
+                "class": "Zona1",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 402,
+                "y": 469,
+                "class": "Zona3",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": 635,
+                "y": 10,
+                "class": "Zona3",
+                "temperature": 36.88980392156863
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "44\\09.11.24\\HM20240614155054.jpeg",
+        "rgb_image": "44\\09.11.24\\HM20240614155054.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 184,
+                "y": 252,
+                "class": "Zona1",
+                "temperature": 36.00274509803921
+            },
+            {
+                "x": 292,
+                "y": 87,
+                "class": "Zona2",
+                "temperature": 36.44627450980393
+            },
+            {
+                "x": 241,
+                "y": 410,
+                "class": "Zona2",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 365,
+                "y": 441,
+                "class": "Zona3",
+                "temperature": 38.07254901960785
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "44\\09.11.24\\HM20240614155054.jpeg",
+        "rgb_image": "44\\09.11.24\\HM20240614155054.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 185,
+                "y": 245,
+                "class": "Zona1",
+                "temperature": 36.00274509803921
+            },
+            {
+                "x": 297,
+                "y": 82,
+                "class": "Zona2",
+                "temperature": 37.18549019607843
+            },
+            {
+                "x": 254,
+                "y": 427,
+                "class": "Zona2",
+                "temperature": 35.26352941176471
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 388,
+                "y": 465,
+                "class": "Zona3",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\19.12.24 (1)\\HM20241219124819.jpeg",
+        "rgb_image": "54\\19.12.24 (1)\\HM20241219124819.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 221,
+                "y": 177,
+                "class": "Zona1",
+                "temperature": 39.994509803921574
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 348,
+                "y": 344,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 524,
+                "y": 459,
+                "class": "Zona2",
+                "temperature": 38.07254901960785
+            },
+            {
+                "x": 379,
+                "y": 102,
+                "class": "Zona3",
+                "temperature": 36.88980392156863
+            },
+            {
+                "x": 249,
+                "y": 348,
+                "class": "Zona3",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\19.12.24 (1)\\HM20241219124819.jpeg",
+        "rgb_image": "54\\19.12.24 (1)\\HM20241219124819.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 207,
+                "y": 192,
+                "class": "Zona1",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 302,
+                "y": 76,
+                "class": "Zona2",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": 332,
+                "y": 336,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 534,
+                "y": 441,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 377,
+                "y": 103,
+                "class": "Zona3",
+                "temperature": 36.88980392156863
+            },
+            {
+                "x": 251,
+                "y": 350,
+                "class": "Zona3",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\19.12.24 (1)\\HM20241219124819.jpeg",
+        "rgb_image": "54\\19.12.24 (1)\\HM20241219124819.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 240,
+                "y": 179,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 300,
+                "y": 82,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": 347,
+                "y": 348,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 512,
+                "y": 450,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 407,
+                "y": 96,
+                "class": "Zona3",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 256,
+                "y": 345,
+                "class": "Zona3",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "32\\05.09.24-06.09.24\\HM20240906053238.jpeg",
+        "rgb_image": "32\\05.09.24-06.09.24\\HM20240906053238.VIS.jpeg",
+        "annotations": [
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 576,
+                "y": 345,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 437,
+                "y": 408,
+                "class": "Zona3",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "32\\05.09.24-06.09.24\\HM20240906053238.jpeg",
+        "rgb_image": "32\\05.09.24-06.09.24\\HM20240906053238.VIS.jpeg",
+        "annotations": [
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 583,
+                "y": 338,
+                "class": "Zona2",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 445,
+                "y": 404,
+                "class": "Zona3",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "32\\05.09.24-06.09.24\\HM20240906053238.jpeg",
+        "rgb_image": "32\\05.09.24-06.09.24\\HM20240906053238.VIS.jpeg",
+        "annotations": [
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 598,
+                "y": 342,
+                "class": "Zona2",
+                "temperature": 39.994509803921574
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 452,
+                "y": 401,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "34\\14.09.24\\HM20240914110034.jpeg",
+        "rgb_image": "34\\14.09.24\\HM20240914110034.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 70,
+                "y": 261,
+                "class": "Zona1",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 181,
+                "y": 84,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 128,
+                "y": 475,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 498,
+                "y": 43,
+                "class": "Zona2",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": 439,
+                "y": 476,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 49,
+                "y": 108,
+                "class": "Zona3",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": 46,
+                "y": 367,
+                "class": "Zona3",
+                "temperature": 35.70705882352941
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 631,
+                "y": 288,
+                "class": "Zona3",
+                "temperature": 34.5243137254902
+            }
+        ]
+    },
+    {
+        "thermal_image": "34\\14.09.24\\HM20240914110034.jpeg",
+        "rgb_image": "34\\14.09.24\\HM20240914110034.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 65,
+                "y": 273,
+                "class": "Zona1",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 182,
+                "y": 91,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 129,
+                "y": 476,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 503,
+                "y": 56,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 72,
+                "y": 100,
+                "class": "Zona3",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 38,
+                "y": 367,
+                "class": "Zona3",
+                "temperature": 35.70705882352941
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 629,
+                "y": 296,
+                "class": "Zona3",
+                "temperature": 34.5243137254902
+            }
+        ]
+    },
+    {
+        "thermal_image": "34\\14.09.24\\HM20240914110034.jpeg",
+        "rgb_image": "34\\14.09.24\\HM20240914110034.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 84,
+                "y": 267,
+                "class": "Zona1",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 181,
+                "y": 90,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 132,
+                "y": 469,
+                "class": "Zona2",
+                "temperature": 38.07254901960785
+            },
+            {
+                "x": 506,
+                "y": 52,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 448,
+                "y": 474,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": 61,
+                "y": 104,
+                "class": "Zona3",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 52,
+                "y": 367,
+                "class": "Zona3",
+                "temperature": 35.70705882352941
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 631,
+                "y": 297,
+                "class": "Zona3",
+                "temperature": 34.5243137254902
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\01.12.24-02.12.24\\HM20241202011049.jpeg",
+        "rgb_image": "50\\01.12.24-02.12.24\\HM20241202011049.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 189,
+                "y": 75,
+                "class": "Zona1",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 236,
+                "y": 209,
+                "class": "Zona2",
+                "temperature": 37.18549019607843
+            },
+            {
+                "x": 513,
+                "y": 4,
+                "class": "Zona2",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": 334,
+                "y": 366,
+                "class": "Zona2",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 109,
+                "y": 249,
+                "class": "Zona3",
+                "temperature": 36.00274509803921
+            },
+            {
+                "x": 636,
+                "y": 123,
+                "class": "Zona3",
+                "temperature": 34.9678431372549
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\01.12.24-02.12.24\\HM20241202011049.jpeg",
+        "rgb_image": "50\\01.12.24-02.12.24\\HM20241202011049.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 193,
+                "y": 39,
+                "class": "Zona1",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 220,
+                "y": 206,
+                "class": "Zona2",
+                "temperature": 36.59411764705882
+            },
+            {
+                "x": 523,
+                "y": 12,
+                "class": "Zona2",
+                "temperature": 35.41137254901961
+            },
+            {
+                "x": 350,
+                "y": 364,
+                "class": "Zona2",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 119,
+                "y": 246,
+                "class": "Zona3",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": 630,
+                "y": 120,
+                "class": "Zona3",
+                "temperature": 34.9678431372549
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\01.12.24-02.12.24\\HM20241202011049.jpeg",
+        "rgb_image": "50\\01.12.24-02.12.24\\HM20241202011049.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 199,
+                "y": 73,
+                "class": "Zona1",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 238,
+                "y": 207,
+                "class": "Zona2",
+                "temperature": 37.18549019607843
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 346,
+                "y": 367,
+                "class": "Zona2",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 129,
+                "y": 244,
+                "class": "Zona3",
+                "temperature": 36.29843137254902
+            },
+            {
+                "x": 635,
+                "y": 112,
+                "class": "Zona3",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "53\\11.12.24\\HM20241211125543.jpeg",
+        "rgb_image": "53\\11.12.24\\HM20241211125543.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 135,
+                "y": 328,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 254,
+                "y": 147,
+                "class": "Zona2",
+                "temperature": 40.29019607843138
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 516,
+                "y": 10,
+                "class": "Zona2",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 378,
+                "y": 36,
+                "class": "Zona3",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "53\\11.12.24\\HM20241211125543.jpeg",
+        "rgb_image": "53\\11.12.24\\HM20241211125543.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 130,
+                "y": 340,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 256,
+                "y": 148,
+                "class": "Zona2",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 538,
+                "y": 36,
+                "class": "Zona2",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 361,
+                "y": 47,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "53\\11.12.24\\HM20241211125543.jpeg",
+        "rgb_image": "53\\11.12.24\\HM20241211125543.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 149,
+                "y": 337,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 277,
+                "y": 132,
+                "class": "Zona2",
+                "temperature": 40.29019607843138
+            },
+            {
+                "x": 289,
+                "y": 475,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 563,
+                "y": 20,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\20.12.24\\HM20241220115902.jpeg",
+        "rgb_image": "54\\20.12.24\\HM20241220115902.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 168,
+                "y": 212,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 135,
+                "y": 74,
+                "class": "Zona2",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 263,
+                "y": 385,
+                "class": "Zona2",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": 471,
+                "y": 4,
+                "class": "Zona2",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 396,
+                "y": 456,
+                "class": "Zona2",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 85,
+                "y": 84,
+                "class": "Zona3",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": 206,
+                "y": 417,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 635,
+                "y": 235,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 608,
+                "y": 408,
+                "class": "Zona3",
+                "temperature": 37.92470588235294
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\20.12.24\\HM20241220115902.jpeg",
+        "rgb_image": "54\\20.12.24\\HM20241220115902.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 157,
+                "y": 212,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 126,
+                "y": 77,
+                "class": "Zona2",
+                "temperature": 39.994509803921574
+            },
+            {
+                "x": 257,
+                "y": 375,
+                "class": "Zona2",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 480,
+                "y": 19,
+                "class": "Zona2",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": 406,
+                "y": 440,
+                "class": "Zona2",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": 84,
+                "y": 101,
+                "class": "Zona3",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 213,
+                "y": 417,
+                "class": "Zona3",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": 609,
+                "y": 220,
+                "class": "Zona3",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": 560,
+                "y": 374,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            }
+        ]
+    },
+    {
+        "thermal_image": "54\\20.12.24\\HM20241220115902.jpeg",
+        "rgb_image": "54\\20.12.24\\HM20241220115902.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 182,
+                "y": 220,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 134,
+                "y": 75,
+                "class": "Zona2",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 470,
+                "y": 10,
+                "class": "Zona2",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 393,
+                "y": 436,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": 88,
+                "y": 77,
+                "class": "Zona3",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 210,
+                "y": 419,
+                "class": "Zona3",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": 630,
+                "y": 240,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 590,
+                "y": 387,
+                "class": "Zona3",
+                "temperature": 37.92470588235294
+            }
+        ]
+    },
+    {
+        "thermal_image": "32\\05.09.24\\HM20240905182300.jpeg",
+        "rgb_image": "32\\05.09.24\\HM20240905182300.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 97,
+                "y": 340,
+                "class": "Zona1",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": 162,
+                "y": 202,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 190,
+                "y": 474,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": 312,
+                "y": 155,
+                "class": "Zona2",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 398,
+                "y": 444,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 61,
+                "y": 201,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 178,
+                "y": 338,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 577,
+                "y": 151,
+                "class": "Zona3",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": 487,
+                "y": 153,
+                "class": "Zona3",
+                "temperature": 38.220392156862744
+            }
+        ]
+    },
+    {
+        "thermal_image": "32\\05.09.24\\HM20240905182300.jpeg",
+        "rgb_image": "32\\05.09.24\\HM20240905182300.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 83,
+                "y": 332,
+                "class": "Zona1",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": 149,
+                "y": 216,
+                "class": "Zona2",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 176,
+                "y": 469,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": 340,
+                "y": 165,
+                "class": "Zona2",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": 397,
+                "y": 424,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 66,
+                "y": 204,
+                "class": "Zona3",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": 180,
+                "y": 337,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 578,
+                "y": 146,
+                "class": "Zona3",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": 488,
+                "y": 158,
+                "class": "Zona3",
+                "temperature": 38.51607843137255
+            }
+        ]
+    },
+    {
+        "thermal_image": "32\\05.09.24\\HM20240905182300.jpeg",
+        "rgb_image": "32\\05.09.24\\HM20240905182300.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 101,
+                "y": 324,
+                "class": "Zona1",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": 156,
+                "y": 209,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": 194,
+                "y": 472,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": 339,
+                "y": 150,
+                "class": "Zona2",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": 419,
+                "y": 427,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 56,
+                "y": 207,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 179,
+                "y": 343,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 572,
+                "y": 169,
+                "class": "Zona3",
+                "temperature": 38.07254901960785
+            },
+            {
+                "x": 501,
+                "y": 204,
+                "class": "Zona3",
+                "temperature": 38.220392156862744
+            }
+        ]
+    },
+    {
+        "thermal_image": "33\\9.9.24 (2)\\HM20240909025156.jpeg",
+        "rgb_image": "33\\9.9.24 (2)\\HM20240909025156.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 85,
+                "y": 127,
+                "class": "Zona1",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": 250,
+                "y": 43,
+                "class": "Zona2",
+                "temperature": 38.07254901960785
+            },
+            {
+                "x": 139,
+                "y": 336,
+                "class": "Zona2",
+                "temperature": 37.03764705882353
+            },
+            {
+                "x": 448,
+                "y": 3,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 259,
+                "y": 475,
+                "class": "Zona2",
+                "temperature": 35.70705882352941
+            },
+            {
+                "x": 100,
+                "y": 20,
+                "class": "Zona3",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": 6,
+                "y": 291,
+                "class": "Zona3",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": 628,
+                "y": 160,
+                "class": "Zona3",
+                "temperature": 34.5243137254902
+            },
+            {
+                "x": 490,
+                "y": 477,
+                "class": "Zona3",
+                "temperature": 37.77686274509804
+            }
+        ]
+    },
+    {
+        "thermal_image": "33\\9.9.24 (2)\\HM20240909025156.jpeg",
+        "rgb_image": "33\\9.9.24 (2)\\HM20240909025156.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 87,
+                "y": 129,
+                "class": "Zona1",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 228,
+                "y": 43,
+                "class": "Zona2",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 125,
+                "y": 328,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 453,
+                "y": 3,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 248,
+                "y": 468,
+                "class": "Zona2",
+                "temperature": 35.70705882352941
+            },
+            {
+                "x": 104,
+                "y": 22,
+                "class": "Zona3",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 608,
+                "y": 165,
+                "class": "Zona3",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "33\\9.9.24 (2)\\HM20240909025156.jpeg",
+        "rgb_image": "33\\9.9.24 (2)\\HM20240909025156.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 96,
+                "y": 155,
+                "class": "Zona1",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 251,
+                "y": 50,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 138,
+                "y": 336,
+                "class": "Zona2",
+                "temperature": 37.03764705882353
+            },
+            {
+                "x": 441,
+                "y": 6,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 259,
+                "y": 457,
+                "class": "Zona2",
+                "temperature": 36.15058823529412
+            },
+            {
+                "x": 98,
+                "y": 26,
+                "class": "Zona3",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": 6,
+                "y": 292,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 587,
+                "y": 171,
+                "class": "Zona3",
+                "temperature": 35.115686274509805
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "38\\05.10.24 (1)\\HM20241005153735.jpeg",
+        "rgb_image": "38\\05.10.24 (1)\\HM20241005153735.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 270,
+                "y": 247,
+                "class": "Zona1",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": 278,
+                "y": 43,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": 369,
+                "y": 421,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 569,
+                "y": 36,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 278,
+                "y": 409,
+                "class": "Zona3",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "38\\05.10.24 (1)\\HM20241005153735.jpeg",
+        "rgb_image": "38\\05.10.24 (1)\\HM20241005153735.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 262,
+                "y": 253,
+                "class": "Zona1",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 260,
+                "y": 50,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 368,
+                "y": 407,
+                "class": "Zona2",
+                "temperature": 39.550980392156866
+            },
+            {
+                "x": 596,
+                "y": 64,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 181,
+                "y": 108,
+                "class": "Zona3",
+                "temperature": 36.15058823529412
+            },
+            {
+                "x": 273,
+                "y": 408,
+                "class": "Zona3",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "38\\05.10.24 (1)\\HM20241005153735.jpeg",
+        "rgb_image": "38\\05.10.24 (1)\\HM20241005153735.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 277,
+                "y": 272,
+                "class": "Zona1",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": 266,
+                "y": 45,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 355,
+                "y": 438,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": 594,
+                "y": 40,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 280,
+                "y": 401,
+                "class": "Zona3",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "41\\02.11.24 (1)\\HM20241102124602.jpeg",
+        "rgb_image": "41\\02.11.24 (1)\\HM20241102124602.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 529,
+                "y": 212,
+                "class": "Zona1",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 379,
+                "y": 105,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 529,
+                "y": 473,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 291,
+                "y": 107,
+                "class": "Zona2",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 553,
+                "y": 350,
+                "class": "Zona3",
+                "temperature": 35.70705882352941
+            },
+            {
+                "x": 461,
+                "y": 47,
+                "class": "Zona3",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 226,
+                "y": 476,
+                "class": "Zona3",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 94,
+                "y": 351,
+                "class": "Zona3",
+                "temperature": 38.220392156862744
+            }
+        ]
+    },
+    {
+        "thermal_image": "41\\02.11.24 (1)\\HM20241102124602.jpeg",
+        "rgb_image": "41\\02.11.24 (1)\\HM20241102124602.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 530,
+                "y": 224,
+                "class": "Zona1",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 391,
+                "y": 163,
+                "class": "Zona2",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 513,
+                "y": 473,
+                "class": "Zona2",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 285,
+                "y": 116,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 453,
+                "y": 51,
+                "class": "Zona3",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 251,
+                "y": 475,
+                "class": "Zona3",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 93,
+                "y": 358,
+                "class": "Zona3",
+                "temperature": 37.92470588235294
+            }
+        ]
+    },
+    {
+        "thermal_image": "41\\02.11.24 (1)\\HM20241102124602.jpeg",
+        "rgb_image": "41\\02.11.24 (1)\\HM20241102124602.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 538,
+                "y": 235,
+                "class": "Zona1",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": 488,
+                "y": 404,
+                "class": "Zona2",
+                "temperature": 34.9678431372549
+            },
+            {
+                "x": 398,
+                "y": 156,
+                "class": "Zona2",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 510,
+                "y": 472,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": 309,
+                "y": 116,
+                "class": "Zona2",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 472,
+                "y": 47,
+                "class": "Zona3",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 157,
+                "y": 383,
+                "class": "Zona3",
+                "temperature": 37.77686274509804
+            }
+        ]
+    },
+    {
+        "thermal_image": "41\\30.10.24\\HM20241030125757.jpeg",
+        "rgb_image": "41\\30.10.24\\HM20241030125757.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 568,
+                "y": 144,
+                "class": "Zona1",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 390,
+                "y": 42,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 217,
+                "y": 68,
+                "class": "Zona2",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 110,
+                "y": 328,
+                "class": "Zona3",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": 232,
+                "y": 432,
+                "class": "Zona3",
+                "temperature": 36.88980392156863
+            }
+        ]
+    },
+    {
+        "thermal_image": "41\\30.10.24\\HM20241030125757.jpeg",
+        "rgb_image": "41\\30.10.24\\HM20241030125757.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 569,
+                "y": 122,
+                "class": "Zona1",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 416,
+                "y": 40,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 221,
+                "y": 67,
+                "class": "Zona2",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 148,
+                "y": 277,
+                "class": "Zona3",
+                "temperature": 35.26352941176471
+            },
+            {
+                "x": 305,
+                "y": 407,
+                "class": "Zona3",
+                "temperature": 36.88980392156863
+            }
+        ]
+    },
+    {
+        "thermal_image": "41\\30.10.24\\HM20241030125757.jpeg",
+        "rgb_image": "41\\30.10.24\\HM20241030125757.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 567,
+                "y": 155,
+                "class": "Zona1",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 421,
+                "y": 48,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 268,
+                "y": 67,
+                "class": "Zona2",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 131,
+                "y": 339,
+                "class": "Zona3",
+                "temperature": 36.00274509803921
+            },
+            {
+                "x": 251,
+                "y": 428,
+                "class": "Zona3",
+                "temperature": 37.333333333333336
+            }
+        ]
+    },
+    {
+        "thermal_image": "45\\13.11.24-14.11.24\\HM20241113200427.jpeg",
+        "rgb_image": "45\\13.11.24-14.11.24\\HM20241113200427.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 136,
+                "y": 435,
+                "class": "Zona1",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 256,
+                "y": 275,
+                "class": "Zona2",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 428,
+                "y": 88,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 244,
+                "y": 64,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "45\\13.11.24-14.11.24\\HM20241113200427.jpeg",
+        "rgb_image": "45\\13.11.24-14.11.24\\HM20241113200427.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 136,
+                "y": 424,
+                "class": "Zona1",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 258,
+                "y": 259,
+                "class": "Zona2",
+                "temperature": 38.811764705882354
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 458,
+                "y": 95,
+                "class": "Zona2",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 250,
+                "y": 64,
+                "class": "Zona3",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "45\\13.11.24-14.11.24\\HM20241113200427.jpeg",
+        "rgb_image": "45\\13.11.24-14.11.24\\HM20241113200427.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 164,
+                "y": 437,
+                "class": "Zona1",
+                "temperature": 38.51607843137255
+            },
+            {
+                "x": 324,
+                "y": 227,
+                "class": "Zona2",
+                "temperature": 37.77686274509804
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 487,
+                "y": 101,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 278,
+                "y": 64,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "46\\23.11.24-24.11.24\\HM20241123201212.jpeg",
+        "rgb_image": "46\\23.11.24-24.11.24\\HM20241123201212.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 81,
+                "y": 241,
+                "class": "Zona1",
+                "temperature": 40.29019607843138
+            },
+            {
+                "x": 92,
+                "y": 402,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": 261,
+                "y": 116,
+                "class": "Zona2",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 356,
+                "y": 87,
+                "class": "Zona2",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 7,
+                "y": 300,
+                "class": "Zona3",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 128,
+                "y": 132,
+                "class": "Zona3",
+                "temperature": 41.32509803921569
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 600,
+                "y": 86,
+                "class": "Zona3",
+                "temperature": 42.064313725490194
+            }
+        ]
+    },
+    {
+        "thermal_image": "46\\23.11.24-24.11.24\\HM20241123201212.jpeg",
+        "rgb_image": "46\\23.11.24-24.11.24\\HM20241123201212.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 81,
+                "y": 208,
+                "class": "Zona1",
+                "temperature": 41.32509803921569
+            },
+            {
+                "x": 87,
+                "y": 404,
+                "class": "Zona2",
+                "temperature": 38.220392156862744
+            },
+            {
+                "x": 245,
+                "y": 126,
+                "class": "Zona2",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 373,
+                "y": 96,
+                "class": "Zona2",
+                "temperature": 40.29019607843138
+            },
+            {
+                "x": 6,
+                "y": 302,
+                "class": "Zona3",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 126,
+                "y": 125,
+                "class": "Zona3",
+                "temperature": 41.32509803921569
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 598,
+                "y": 109,
+                "class": "Zona3",
+                "temperature": 41.76862745098039
+            }
+        ]
+    },
+    {
+        "thermal_image": "46\\23.11.24-24.11.24\\HM20241123201212.jpeg",
+        "rgb_image": "46\\23.11.24-24.11.24\\HM20241123201212.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 99,
+                "y": 265,
+                "class": "Zona1",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 78,
+                "y": 385,
+                "class": "Zona2",
+                "temperature": 39.403137254901964
+            },
+            {
+                "x": 256,
+                "y": 116,
+                "class": "Zona2",
+                "temperature": 39.846666666666664
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 372,
+                "y": 85,
+                "class": "Zona2",
+                "temperature": 40.29019607843138
+            },
+            {
+                "x": 32,
+                "y": 311,
+                "class": "Zona3",
+                "temperature": 40.438039215686274
+            },
+            {
+                "x": 128,
+                "y": 144,
+                "class": "Zona3",
+                "temperature": 41.620784313725494
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 605,
+                "y": 84,
+                "class": "Zona3",
+                "temperature": 42.064313725490194
+            }
+        ]
+    },
+    {
+        "thermal_image": "47\\01.12.24\\HM20241201050455.jpeg",
+        "rgb_image": "47\\01.12.24\\HM20241201050455.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 446,
+                "y": 199,
+                "class": "Zona1",
+                "temperature": 38.07254901960785
+            },
+            {
+                "x": 619,
+                "y": 76,
+                "class": "Zona2",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": 379,
+                "y": 400,
+                "class": "Zona2",
+                "temperature": 37.03764705882353
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 451,
+                "y": 47,
+                "class": "Zona3",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "47\\01.12.24\\HM20241201050455.jpeg",
+        "rgb_image": "47\\01.12.24\\HM20241201050455.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 442,
+                "y": 205,
+                "class": "Zona1",
+                "temperature": 38.07254901960785
+            },
+            {
+                "x": 608,
+                "y": 87,
+                "class": "Zona2",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": 388,
+                "y": 400,
+                "class": "Zona2",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 461,
+                "y": 44,
+                "class": "Zona3",
+                "temperature": 36.59411764705882
+            },
+            {
+                "x": 310,
+                "y": 316,
+                "class": "Zona3",
+                "temperature": 35.55921568627451
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "47\\01.12.24\\HM20241201050455.jpeg",
+        "rgb_image": "47\\01.12.24\\HM20241201050455.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 471,
+                "y": 232,
+                "class": "Zona1",
+                "temperature": 37.92470588235294
+            },
+            {
+                "x": 616,
+                "y": 76,
+                "class": "Zona2",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": 408,
+                "y": 400,
+                "class": "Zona2",
+                "temperature": 37.48117647058824
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 456,
+                "y": 45,
+                "class": "Zona3",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": 357,
+                "y": 288,
+                "class": "Zona3",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "48\\25.11.24\\HM20241125174632.jpeg",
+        "rgb_image": "48\\25.11.24\\HM20241125174632.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 176,
+                "y": 282,
+                "class": "Zona1",
+                "temperature": 41.029411764705884
+            },
+            {
+                "x": 251,
+                "y": 166,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 244,
+                "y": 442,
+                "class": "Zona2",
+                "temperature": 38.959607843137256
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 164,
+                "y": 323,
+                "class": "Zona3",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 128,
+                "y": 369,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "48\\25.11.24\\HM20241125174632.jpeg",
+        "rgb_image": "48\\25.11.24\\HM20241125174632.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 172,
+                "y": 284,
+                "class": "Zona1",
+                "temperature": 40.73372549019608
+            },
+            {
+                "x": 242,
+                "y": 170,
+                "class": "Zona2",
+                "temperature": 39.10745098039216
+            },
+            {
+                "x": 235,
+                "y": 434,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 156,
+                "y": 314,
+                "class": "Zona3",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": 157,
+                "y": 371,
+                "class": "Zona3",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "48\\25.11.24\\HM20241125174632.jpeg",
+        "rgb_image": "48\\25.11.24\\HM20241125174632.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 210,
+                "y": 288,
+                "class": "Zona1",
+                "temperature": 40.88156862745098
+            },
+            {
+                "x": 270,
+                "y": 183,
+                "class": "Zona2",
+                "temperature": 40.14235294117647
+            },
+            {
+                "x": 242,
+                "y": 435,
+                "class": "Zona2",
+                "temperature": 39.25529411764706
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 192,
+                "y": 329,
+                "class": "Zona3",
+                "temperature": 40.29019607843138
+            },
+            {
+                "x": 145,
+                "y": 364,
+                "class": "Zona3",
+                "temperature": 39.69882352941177
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "33\\09.09.24 -10.09.24\\HM20240909183417.jpeg",
+        "rgb_image": "33\\09.09.24 -10.09.24\\HM20240909183417.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 315,
+                "y": 119,
+                "class": "Zona1",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 108,
+                "y": 145,
+                "class": "Zona2",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": 156,
+                "y": 388,
+                "class": "Zona2",
+                "temperature": 36.44627450980393
+            },
+            {
+                "x": 3,
+                "y": 275,
+                "class": "Zona2",
+                "temperature": 35.70705882352941
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 147,
+                "y": 25,
+                "class": "Zona3",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "33\\09.09.24 -10.09.24\\HM20240909183417.jpeg",
+        "rgb_image": "33\\09.09.24 -10.09.24\\HM20240909183417.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 336,
+                "y": 109,
+                "class": "Zona1",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 115,
+                "y": 142,
+                "class": "Zona2",
+                "temperature": 36.00274509803921
+            },
+            {
+                "x": 170,
+                "y": 404,
+                "class": "Zona2",
+                "temperature": 36.44627450980393
+            },
+            {
+                "x": 36,
+                "y": 282,
+                "class": "Zona2",
+                "temperature": 36.29843137254902
+            },
+            {
+                "x": 473,
+                "y": 92,
+                "class": "Zona3",
+                "temperature": 38.66392156862745
+            },
+            {
+                "x": 135,
+                "y": 22,
+                "class": "Zona3",
+                "temperature": 37.18549019607843
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "33\\09.09.24 -10.09.24\\HM20240909183417.jpeg",
+        "rgb_image": "33\\09.09.24 -10.09.24\\HM20240909183417.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 293,
+                "y": 149,
+                "class": "Zona1",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 96,
+                "y": 141,
+                "class": "Zona2",
+                "temperature": 35.55921568627451
+            },
+            {
+                "x": 157,
+                "y": 390,
+                "class": "Zona2",
+                "temperature": 36.44627450980393
+            },
+            {
+                "x": 5,
+                "y": 288,
+                "class": "Zona2",
+                "temperature": 36.15058823529412
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 141,
+                "y": 23,
+                "class": "Zona3",
+                "temperature": 37.333333333333336
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\05.12.24 (2)\\HM20241205153145.jpeg",
+        "rgb_image": "50\\05.12.24 (2)\\HM20241205153145.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 477,
+                "y": 3,
+                "class": "Zona1",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 343,
+                "y": 135,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": 635,
+                "y": 84,
+                "class": "Zona2",
+                "temperature": 35.85490196078432
+            },
+            {
+                "x": 370,
+                "y": 347,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 309,
+                "y": 23,
+                "class": "Zona3",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 496,
+                "y": 471,
+                "class": "Zona3",
+                "temperature": 36.741960784313726
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\05.12.24 (2)\\HM20241205153145.jpeg",
+        "rgb_image": "50\\05.12.24 (2)\\HM20241205153145.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 478,
+                "y": 1,
+                "class": "Zona1",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 342,
+                "y": 136,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 380,
+                "y": 346,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 298,
+                "y": 28,
+                "class": "Zona3",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 510,
+                "y": 474,
+                "class": "Zona3",
+                "temperature": 36.29843137254902
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    },
+    {
+        "thermal_image": "50\\05.12.24 (2)\\HM20241205153145.jpeg",
+        "rgb_image": "50\\05.12.24 (2)\\HM20241205153145.VIS.jpeg",
+        "annotations": [
+            {
+                "x": 451,
+                "y": 13,
+                "class": "Zona1",
+                "temperature": 38.36823529411765
+            },
+            {
+                "x": 346,
+                "y": 140,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 368,
+                "y": 340,
+                "class": "Zona2",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": 302,
+                "y": 23,
+                "class": "Zona3",
+                "temperature": 37.629019607843134
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            },
+            {
+                "x": null,
+                "y": null,
+                "class": "no_present",
+                "temperature": null
+            }
+        ]
+    }
+]
