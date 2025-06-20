@@ -1,0 +1,48 @@
+#!/bin/bash
+#SBATCH --job-name=posture_detection_gpu
+#SBATCH --output=posture_detection_%j.out
+#SBATCH --error=posture_detection_%j.err
+#SBATCH --time=04:00:00
+#SBATCH --mem=8G               # Increased memory for GPU workloads
+#SBATCH --cpus-per-task=4      # For data loading/parallel processing
+#SBATCH --gres=gpu:1           # Request 1 GPU
+#SBATCH --partition=express    # GPU partition
+
+# Load required modules
+module purge                   # Clean any existing modules
+module load conda        # Adjust cuDNN version as needed
+
+# Activate Conda environment
+conda activate hrnet
+
+# Set paths
+NOTEBOOK_PATH="/data/uabcvmsc/cvmsct01/PostureDetection/HRNet-Human-Pose-Estimation/posture_detection_pipeline.ipynb"
+WORK_DIR="$SLURM_SUBMIT_DIR"
+PYTHON_SCRIPT="$WORK_DIR/posture_detection.py"
+
+# Convert notebook to Python script (forcing .py extension)
+echo "Converting notebook to Python script..."
+jupyter nbconvert --to script "$NOTEBOOK_PATH" --output "$PYTHON_SCRIPT" --output-dir "$WORK_DIR"
+
+# Handle potential .txt extension
+if [ ! -f "$PYTHON_SCRIPT" ] && [ -f "$PYTHON_SCRIPT.txt" ]; then
+    mv "$PYTHON_SCRIPT.txt" "$PYTHON_SCRIPT"
+fi
+
+# Verify conversion
+if [ ! -f "$PYTHON_SCRIPT" ]; then
+    echo "Error: Failed to convert notebook to script!"
+    echo "Files in $WORK_DIR:"
+    ls -l "$WORK_DIR"
+    exit 1
+fi
+
+# Run the script with GPU support
+echo "Starting posture detection pipeline..."
+python "$PYTHON_SCRIPT"
+
+# GPU verification
+echo -e "\nGPU utilization:"
+nvidia-smi --query-gpu=utilization.gpu,memory.used --format=csv
+
+echo -e "\nJob completed successfully"
