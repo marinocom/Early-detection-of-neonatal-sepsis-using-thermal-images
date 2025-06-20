@@ -15,7 +15,7 @@ This project develops a non-invasive, real-time monitoring system that uses ther
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.8+ (except for Pose Detection -> See README inside the folder)
 - CUDA-capable GPU (recommended for real-time processing)
 - Thermal camera with PNG output capability
 - RGB camera for visible spectrum imaging
