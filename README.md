@@ -9,6 +9,7 @@ This project develops a non-invasive, real-time monitoring system that uses ther
 ### Key Features
 - **Modality Alignment/Cropping mechanisms**: Processes both thermal (640x480) and visible spectrum (3264x2448) images
 - **Pose detection**: Uses HRNet to identify 17 anatomical keypoints on neonates
+- **Human Error Trials**
 - **Temperature analysis**: Monitors core-to-peripheral temperature differentials
 - **Time series & Alarm raising**: Triggers warnings when sepsis-indicative patterns are detected
 
