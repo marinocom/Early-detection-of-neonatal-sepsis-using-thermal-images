@@ -130,7 +130,6 @@ pillow>=9.0.0
 ### Long-Term Development
 - LSTM temporal modeling for advanced time-series pattern prediction
 - Multi-center validation across diverse NICU environments and patient populations
-- Real-time dashboard with WebSocket-based clinical monitoring interface and risk scoring
 - Regulatory approval pathway for EU MDR certification as Class IIb medical device
 
 ## Clinical Impact
