@@ -44,9 +44,6 @@ Thermal (640×480) and RGB (3264×2448) images have different resolutions, zoom 
 Solution: 
 - Homography transformation using point-based correspondence
 - Manual landmark selection (corners, joints, silhouette)
-- Sub-pixel accuracy through bilinear interpolation
-- Temporal synchronization within 2-second windows
-
 
 ### 2. Pose Detection with HRNet
 Uses HRNet-W48 adapted for neonatal anatomy to detect 17 anatomical keypoints with 0.7 confidence threshold.
@@ -121,11 +118,6 @@ pillow>=9.0.0
 - RGB camera (3264×2448 resolution)
 - CUDA-capable GPU (recommended for real-time processing)
 - ~252GB storage for dataset
-
-
-### Usage
-
-As this work is for research purposes only and deals with sensitive data non-authorized for sharing the usage tab is empty.
 
 
 ## Future Enhancements
